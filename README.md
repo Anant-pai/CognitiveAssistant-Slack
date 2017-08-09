@@ -8,7 +8,9 @@ _________________
 
 Go to the terminal (or Command Prompt on Windows) and change into the directory where you want to store this project. Within that directory, create a new virtualenv to isolate our application dependencies from other Python projects.
 
-# virtualenv starterbot
+'''python
+virtualenv starterbot
+'''
 
 Activate the virtualenv:
 

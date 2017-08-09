@@ -18,10 +18,6 @@ The official slackclient API helper library built by Slack can send and receive 
 
 # pip install slackclient
 
-When pip is finished you should see output like this and you'll be back at the prompt.
-
-Output from using the pip install slackclient command with a virtualenv activated.
-
 We also need to obtain an access token for our Slack team so our bot can use it to connect to the Slack API.
 Slack Real Time Messaging (RTM) API
 
